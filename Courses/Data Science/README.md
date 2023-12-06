@@ -5,3 +5,12 @@
 Data Science is a must know discipline in the era of big data. Today, companies and industries must make data-driven decisions to survive. Learn how Data Science works.
 
 Link: https://www.sololearn.com/en/learn/courses/le-data-science
+
+## Lessons
+
+1. Data Manipulation
+2. Data Analysis
+3. Data Visualization
+4. Linear Regression
+5. Classification
+6. Clustering
