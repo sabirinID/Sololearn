@@ -1,4 +1,4 @@
-# Python
+# Python (Core)
 
 <p align="center">
     <img src="https://lecontent.sololearn.com/material-images/7c95e1d635fb48958282d7129be5cdbd-PythonDeveloper.png" alt="Python" width="100px" height="auto"></p>
