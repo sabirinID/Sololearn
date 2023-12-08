@@ -17,3 +17,6 @@ This is a repository for storing and sharing data resulting from working on proj
 <p align="center">
   <img src="README/Frame-Humans-vs-Machines.jpg" alt="Humans and machines" width="600px" height="auto">
 </p>
+
+
+
