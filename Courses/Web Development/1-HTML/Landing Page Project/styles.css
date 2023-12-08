@@ -1,0 +1,9 @@
+header, footer {
+    background-color: #FFCA3A;
+}
+
+button {
+    background-color: #00FFCA;
+    border: none;
+    border-radius: 5px;
+}
