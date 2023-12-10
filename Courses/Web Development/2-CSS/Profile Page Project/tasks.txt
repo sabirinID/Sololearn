@@ -2,6 +2,8 @@
 
 ## Task 1
 
+Time to have fun building a User Profile Page.  You’ll do this step by step. The HTML code is ready for you. Your task is to use CSS to bring the page to life.
+
 User profile pages have a great impact on a website’s success. Let’s start by applying some color and alignments
 
 1. Set the background color of the body to DarkSlateGrey
@@ -10,6 +12,8 @@ User profile pages have a great impact on a website’s success. Let’s start by ap
 
 ## Task 2
 
+Let’s continue enhancing your User Profile Page. In this step, you’ll create styling rules to enrich the content.
+
 Next, you’ll set fonts for the page and align the profile section. You’ll also make the streak section easier to understand for the user.
 
 1. Set the font-family of the body to Arial, sans-serif
@@ -17,6 +21,8 @@ Next, you’ll set fonts for the page and align the profile section. You’ll also m
 3. Color .active-day elements with #00CC00 and .inactive-day with #CCCCCC to represent active and inactive days, respectively
 
 ## Task 3
+
+You are making excellent progress! The next step is to style the lists to make them blend seamlessly with our design.
 
 In this step, you’ll style the lists in the #profile and #streak sections to enhance the visual coherence of the page.
 
@@ -27,6 +33,8 @@ In this step, you’ll style the lists in the #profile and #streak sections to enh
 
 ## Task 4
 
+You’re stepping into exciting territory now. You’ll make use of the Box model to enhance the aesthetic and readability of your page.
+
 In this step you’ll fine-tune margins and paddings.
 
 1. Apply display: inline to the list items in the profile section and add a 15px margin around them
@@ -35,6 +43,8 @@ In this step you’ll fine-tune margins and paddings.
 4. Apply display: inline to the paragraphs in the streak section and add a 10px margin
 
 ## Task 5
+
+You’re at the final step! Bring the page to life with animations.
 
 In this step, you’ll apply a pulsing animation to the active days to make them change in size and color.
 
