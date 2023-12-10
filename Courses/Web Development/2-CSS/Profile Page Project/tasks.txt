@@ -1,0 +1,44 @@
+# Profile Page Project
+
+## Task 1
+
+User profile pages have a great impact on a website’s success. Let’s start by applying some color and alignments
+
+1. Set the background color of the body to DarkSlateGrey
+2. Center-align the headings and paragraphs, and set their text color to white
+3. “Run” the code to preview the page. Then “save” your progress and move on
+
+## Task 2
+
+Next, you’ll set fonts for the page and align the profile section. You’ll also make the streak section easier to understand for the user.
+
+1. Set the font-family of the body to Arial, sans-serif
+2. Center-align the #profile section and color its text with #FFFFFF
+3. Color .active-day elements with #00CC00 and .inactive-day with #CCCCCC to represent active and inactive days, respectively
+
+## Task 3
+
+In this step, you’ll style the lists in the #profile and #streak sections to enhance the visual coherence of the page.
+
+1. Override the default list style from the lists in both profile and streak sections by setting list-style to none
+2. Give the list in the #streak section a contrasting white background and add rounded corners with a border-radius of 5px
+3. Change the color of the paragraphs in the streak section to #676767 so the text can be read on the new background
+4. Save your progress to move forward
+
+## Task 4
+
+In this step you’ll fine-tune margins and paddings.
+
+1. Apply display: inline to the list items in the profile section and add a 15px margin around them
+2. Add a 10px padding-top to the whole streak section (container)
+3. Apply display: inline to the list in the streak section and give it 5px margin and 5px padding
+4. Apply display: inline to the paragraphs in the streak section and add a 10px margin
+
+## Task 5
+
+In this step, you’ll apply a pulsing animation to the active days to make them change in size and color.
+
+1. Apply animation-name: pulse to the .active-day elements
+2. Make the duration of the animation 2s and ensure it plays infinite times
+3. Use @keyframes for the pulse animation to make the text size change from 100% and 120% and back again, and change the color to #00CC00 at the 50% mark of the animation
+
