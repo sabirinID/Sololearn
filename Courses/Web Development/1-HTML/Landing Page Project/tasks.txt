@@ -1,0 +1,40 @@
+# Landing Page Project
+
+## Task 1
+
+It's time to build your very own HTML project. You'll be doing this step by step, from scratch. By the end of this course, you'll have created a product landing page.
+
+In step 1, let's kick off by adding the heading and the image.
+
+1. Modify the given h1 element with the name of your product.
+2. Add the image element below the heading. Use the URL provided in the playground.
+3. "Run" the code to preview the page. Then save your progress and move on.
+
+## Task 2
+
+In digital marketing, a landing page is where a visitor “lands” after clicking on a link in an email, an ad on Google, YouTube, Facebook, Twitter, etc.
+
+Landing pages are designed and written to be clear, concise, and highly persuasive, so people take action.
+
+1. Add a <p> element with a product description below the image
+2. Add a comment to explain your code
+3. Remember to commit your changes when you’re happy with the result, to save and move on
+
+## Task 3
+
+Ready to continue with your HTML project? Let’s keep building your product landing page.
+
+Let’s make it easier for your customers to buy your product, by adding a  special section with an order form.
+
+1. Start adding a descriptive h2 heading to draw attention to the ordering section
+2. Add a well-structured <form> element with both text and email input type
+3. Add a "Submit" button to the form
+
+## Task 4
+
+You’re doing an amazing job! Let’s use everything you’ve learned to take your landing page to the next level.
+
+1. Create the page <header> and put the h1 heading inside
+2. Create the <main> section and put the rest of the content inside
+3. Create the <footer> at the bottom of the page and add some content
+
