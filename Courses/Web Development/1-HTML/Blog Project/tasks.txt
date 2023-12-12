@@ -1,0 +1,104 @@
+# Blog Project
+
+## Task 1: About Me
+### Formatting Text
+Let's get back to our blog project.
+The About Me section will contain a heading that's wrapped
+in a <h1> tag, along with two paragraphs that format text
+using the tags you've just learned.
+
+You may have noticed that we've also used some CSS to add
+colors and styles to the page. When you complete HTML, we
+strongly recommend our free CSS Tutorial!
+
+Task:
+1. Create your own About Me section by changing the text.
+2. Experiment with formatting text.
+
+### Summary
+You are doing great! The next step is the "Summary" section.
+The "Summary" section is a brief section of your resume that
+highlights your professional accomplishments and describes
+your greatest strengths, skills, and personal qualities.
+
+Task:
+1. Write "Summary" below the horizontal line enclosed in
+   <h2> element.
+2. Immediately below, write your summary inside the
+   <p> element.
+
+Hint:
+Use <i> tag to make the "Summary" italic.
+
+## Task 2: My Skills
+### My Skills
+Back to our blog! Let's create the My Skills section, which
+is an unordered list of languages you know.
+
+Reminder:
+Use the <ul> tag, in which each item is represented by the
+<li> tag, to create an unordered list.
+
+We'll learn how to add progress bars to each of the skills
+in the following module.
+
+Task:
+1. Create your own My Skills section.
+2. Use the <a> tag to make each list item a link.
+
+## Task 3: My Schedule
+### My Schedule
+Use table tags to add a table to your blog that represents
+your daily learning schedule. The <th> tags represent the
+table headers.
+
+The empty <td> tags represent empty table cells. They're
+necessary because they maintain the table's structure.
+
+Task:
+Customize the table to create your unique schedule!
+
+## Task 4: Contact Form
+### Contact Form
+Next, we'll create a Contact Form for your blog.
+The form will include Name, Email, and Message fields.
+We'll also add a Submit button.
+
+This is just a static HTML page, so it won't work to actually
+submit the form. You'd need to create the server-side code in
+order to submit a real form and process the data. To learn
+how, complete SoloLearn's PHP course once you've completed
+the HTML and CSS courses.
+
+Task:
+Check out the code and customize the form to fit your needs!
+
+### Message
+And now, for the finishing touch!
+To complete the form, let's add a field for the message and
+a submission button!
+
+Task:
+1. Inside the form, define the <textarea> element, and
+   add the placeholder attribute with "Message" value.
+2. Make all the fields required by adding an eponymous
+   attribute at the end.
+3. For the submit button, add the <input> element with
+   type = "submit" and value = "SEND" attributes.
+
+Hint:
+You can also add the type attribute to the fields with
+corresponding values.
+
+## Task 5: Putting It All Together
+### Blog Project
+To finalize our blog, we'll use a frame to embed a YouTube
+video. We'll also create a Follow Me section that includes
+links at the end of the page.
+
+Task:
+1. Finalize your blog page.
+2. Share your code creation with the community, get feedback,
+   and receive upvotes!
+
+## 
