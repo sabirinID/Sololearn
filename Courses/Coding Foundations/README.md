@@ -6,7 +6,7 @@
     Master all the coding skills you need to create websites, write programs, and tap into databases. You’ll learn to create websites from scratch in HTML, get certified in SQL, the international standard language for databases, and specialize in Python, the world’s fastest growing programming language. No previous coding experience needed.
 </p>
 
-Link: https://www.sololearn.com/en/learn/courses/coding-foundations
+[Click to view website →](https://www.sololearn.com/en/learn/courses/coding-foundations)
 
 ## Lessons
 
