@@ -6,7 +6,7 @@
     Master all 3 languages needed to build any website. You'll learn to create websites from scratch in HTML, design and style pages exactly how you want with CSS and make your sites and apps dynamic and interactive with JS. No previous experience needed.
 </p>
 
-Link: https://www.sololearn.com/en/learn/courses/web-development
+[Click to view website →](https://www.sololearn.com/en/learn/courses/web-development)
 
 ## Lessons
 
