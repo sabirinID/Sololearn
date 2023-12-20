@@ -6,7 +6,7 @@
     Understanding the basics of HTML and CSS will equip you with the tools to understand how a website is created, how it works, and how to manipulate the code behind it. This course is intended for Digital Marketers who want to learn the basics of web technologies and apply the knowledge in their daily work.
 </p>
 
-Link: https://www.sololearn.com/en/learn/courses/le-coding-marketers
+[Click to view website →](https://www.sololearn.com/en/learn/courses/le-coding-marketers)
 
 ## Lessons
 
