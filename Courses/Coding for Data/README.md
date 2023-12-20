@@ -6,7 +6,7 @@
     Master the skills you need to tap into databases, play with data and make smarter decisions. You’ll learn to specialize in SQL, the international standard language for databases and build interactive programs and automate your tasks using Python.
 </p>
 
-Link: https://www.sololearn.com/en/learn/courses/data-programming
+[Click to view website →](https://www.sololearn.com/en/learn/courses/data-programming)
 
 ## Lessons
 
