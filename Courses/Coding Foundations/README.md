@@ -1,7 +1,7 @@
 # Coding Foundations
 
 <p align="center">
-    <img src="https://lecontent.sololearn.com/material-images/d90b5766e6e54b72a8fb1c8291444bf5-ResponsiveWebDesign.png" alt="Coding Foundations" width="100px" height="auto"></p>
+    <img src="https://lecontent.sololearn.com/material-images/e934d2dd2b8a4bb69efa5c976962c978-CodingFoundations.png" alt="Coding Foundations" width="100px" height="auto"></p>
 <p align="justify">
     Master all the coding skills you need to create websites, write programs, and tap into databases. You’ll learn to create websites from scratch in HTML, get certified in SQL, the international standard language for databases, and specialize in Python, the world’s fastest growing programming language. No previous coding experience needed.
 </p>
